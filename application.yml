@@ -1,0 +1,2 @@
+service:
+	greet: Hello user
